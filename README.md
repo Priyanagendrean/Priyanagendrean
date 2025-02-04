@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Priyanagendrean
 - 👀 I’m interested in objectoriented programming
 - 🌱 I’m currently learning Full stack development
+- I'm currntly doing internship at comcast
 
 
 <!---
